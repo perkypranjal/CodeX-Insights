@@ -7,6 +7,7 @@ CodeX is a German beverage company that is aiming to make its mark in the Indian
 As a marketing data analyst, the task is to provide some useful insights to the marketing team of the company, which is responsible for brand awareness, market shares and product development.
 
 ## 🌟 Data Model:
+<img src="" class="center">
 
 ## 🌟 Key Findings:
 - 60% of CodeX's customers are male, indicating a strong male consumer base.
