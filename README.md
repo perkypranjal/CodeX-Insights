@@ -12,16 +12,16 @@ As a marketing data analyst, the task is to provide some useful insights to the 
 <img src="https://github.com/perkypranjal/CodeX-Insights/blob/main/Resources/data_model.png" class="center">
 
 ## Demographic View:
-<img src="https://github.com/perkypranjal/CodeX-Insights/blob/main/Resources/data_model.png" class="center">
+<img src="https://github.com/perkypranjal/CodeX-Insights/blob/main/Resources/demographic%20view.png" class="center">
 
 ## Consumer View:
-<img src="https://github.com/perkypranjal/CodeX-Insights/blob/main/Resources/data_model.png" class="center">
+<img src="https://github.com/perkypranjal/CodeX-Insights/blob/main/Resources/consumer%20view.png" class="center">
 
 ## Marketing View:
-<img src="https://github.com/perkypranjal/CodeX-Insights/blob/main/Resources/data_model.png" class="center">
+<img src="https://github.com/perkypranjal/CodeX-Insights/blob/main/Resources/marketing%20view.png" class="center">
 
 ## CodeX Marketing Analysis View:
-<img src="https://github.com/perkypranjal/CodeX-Insights/blob/main/Resources/data_model.png" class="center">
+<img src="https://github.com/perkypranjal/CodeX-Insights/blob/main/Resources/codex%20marketing%20analysis%20view.png" class="center">
 
 ## 🌟 Key Findings:
 - 60% of CodeX's customers are male, indicating a strong male consumer base.
