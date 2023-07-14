@@ -6,7 +6,8 @@ CodeX is a German beverage company that is aiming to make its mark in the Indian
 ## 🌟 Task:
 As a marketing data analyst, the task is to provide some useful insights to the marketing team of the company, which is responsible for brand awareness, market shares and product development.
 
-## Let us dive deep into the project & have a look at the data model & all the views which we have created
+
+## 🌟Let us dive deep into the project & have a look at the data model & all the views which we have created
 
 ## 🌟 Data Model:
 <img src="https://github.com/perkypranjal/CodeX-Insights/blob/main/Resources/data_model.png" class="center">
